@@ -1,4 +1,11 @@
-header{ 
-    background-color: black;
-     color:blueviolet
+.cabecalho{ 
+    background-color: rgb(0, 0, 0);
+     color:rgb(255, 255, 255)
+    display: flex;
+    justify-content: space-around;
+    aling-items: center;
+    padding: 
+}
+.cabecalho-imagem{
+    width: 20%;
 }
